@@ -7,3 +7,9 @@ set shiftwidth=4
 set t_Co=256
 set background=dark
 colorscheme hybrid
+
+set incsearch
+set hlsearch
+set ignorecase
+set smartcase
+set showmatch
